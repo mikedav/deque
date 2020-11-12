@@ -10,8 +10,8 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="dequeappl"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="79"/>
-        <CursorPos X="76" Y="105"/>
+        <TopLine Value="52"/>
+        <CursorPos X="21" Y="76"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -25,7 +25,7 @@
         <Loaded Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="19" HistoryIndex="18">
+    <JumpHistory Count="18" HistoryIndex="17">
       <Position1>
         <Filename Value="dequeapp.lpr"/>
         <Caret Line="51" Column="14" TopLine="36"/>
@@ -56,52 +56,48 @@
       </Position7>
       <Position8>
         <Filename Value="dequeapp.lpr"/>
-        <Caret Line="33" Column="21" TopLine="56"/>
+        <Caret Line="82" Column="33" TopLine="71"/>
       </Position8>
       <Position9>
         <Filename Value="dequeapp.lpr"/>
-        <Caret Line="82" Column="33" TopLine="71"/>
+        <Caret Line="34" Column="94" TopLine="24"/>
       </Position9>
       <Position10>
         <Filename Value="dequeapp.lpr"/>
-        <Caret Line="34" Column="94" TopLine="24"/>
+        <Caret Line="82" Column="17" TopLine="72"/>
       </Position10>
       <Position11>
         <Filename Value="dequeapp.lpr"/>
-        <Caret Line="82" Column="17" TopLine="72"/>
+        <Caret Line="102" Column="70" TopLine="87"/>
       </Position11>
       <Position12>
         <Filename Value="dequeapp.lpr"/>
-        <Caret Line="102" Column="70" TopLine="87"/>
+        <Caret Line="98" Column="53" TopLine="87"/>
       </Position12>
       <Position13>
         <Filename Value="dequeapp.lpr"/>
-        <Caret Line="98" Column="53" TopLine="87"/>
+        <Caret Line="96" Column="59" TopLine="92"/>
       </Position13>
       <Position14>
-        <Filename Value="dequeapp.lpr"/>
-        <Caret Line="96" Column="59" TopLine="92"/>
+        <Filename Value="udeque.pas"/>
+        <Caret Line="118" Column="10" TopLine="21"/>
       </Position14>
       <Position15>
         <Filename Value="udeque.pas"/>
-        <Caret Line="118" Column="10" TopLine="21"/>
+        <Caret Line="117" Column="28" TopLine="103"/>
       </Position15>
       <Position16>
         <Filename Value="udeque.pas"/>
-        <Caret Line="117" Column="28" TopLine="103"/>
+        <Caret Line="3" Column="14"/>
       </Position16>
       <Position17>
-        <Filename Value="udeque.pas"/>
-        <Caret Line="3" Column="14"/>
+        <Filename Value="dequeapp.lpr"/>
+        <Caret Line="100" Column="73" TopLine="85"/>
       </Position17>
       <Position18>
         <Filename Value="dequeapp.lpr"/>
-        <Caret Line="100" Column="73" TopLine="85"/>
-      </Position18>
-      <Position19>
-        <Filename Value="dequeapp.lpr"/>
         <Caret Line="107" Column="22" TopLine="99"/>
-      </Position19>
+      </Position18>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
